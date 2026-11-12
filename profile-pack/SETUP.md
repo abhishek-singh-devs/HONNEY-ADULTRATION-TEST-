@@ -1,14 +1,15 @@
 # GitHub profile setup
 
-This folder contains the prepared profile README and matching banner.
+This folder contains your prepared profile README and matching banner.
 
 ## Publish it as your GitHub profile
 
 1. Create a new **public** GitHub repository named exactly `abhishek-singh-devs`.
-2. Do not add a README or other starter files (or delete the starter README if GitHub creates one).
-3. Copy `README.md` from this folder to the root of that new repository.
-4. Copy `profile-banner.svg` from this folder to the root of that new repository too.
-5. The profile page will display the README automatically after the files are on the default branch.
+2. Leave **Add a README file** unchecked so the repository starts empty.
+3. Tell ChatGPT **"profile repository created"**.
+4. The prepared `README.md` and `profile-banner.svg` can then be published directly into that repository.
+
+GitHub automatically displays the README from a public repository whose name exactly matches your username.
 
 ## Before publishing
 
