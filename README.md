@@ -1,94 +1,59 @@
-# Honey Adulteration Tests
+# Honey Adulteration Screening Study
 
-## Overview
+An academic study comparing three commercially available honey brands in India using simple laboratory screening methods.
 
-This project investigates the purity and authenticity of commercially available honey brands in India using simple laboratory-based adulteration detection methods.
+**Author:** Abhishek Singh  
+**Programme:** B.Tech Food Technology, IILM University, Greater Noida  
+**Supervisor:** Dr. Bisma Jan, Assistant Professor, Department of Biotechnology
 
-The study compares:
+## Project overview
+
+This study documents screening observations for three honey samples:
 
 - Dabur Honey
 - Amul Honey
 - Saffola Honey
 
-## Objectives
+The work was carried out to understand selected screening methods, compare observations across the samples, and explore food-quality and consumer-awareness questions.
 
-1. Evaluate honey purity using laboratory tests.
-2. Understand principles behind adulteration detection.
-3. Compare results among different honey brands.
-4. Promote awareness regarding food quality and consumer safety.
+## Tests documented
 
-## Tests Performed
+1. **Water dispersion / solubility test** — qualitative observation of how each sample dispersed in water.
+2. **Iodine test** — screening for a starch-related reaction.
+3. **Flame test** — qualitative observation of combustion behaviour.
+4. **Honey spread test** — qualitative comparison of spread behaviour and texture.
+5. **Moisture content analysis** — moisture values recorded for the tested samples.
 
-### 1. Solubility Test
-Determines whether honey settles as a cohesive mass or dissolves rapidly in water.
+## Recorded observations
 
-### 2. Iodine Test
-Detects the presence of starch adulteration.
+| Test / observation | Dabur | Amul | Saffola |
+|---|---:|---:|---:|
+| Water dispersion | Pass | Pass | Pass |
+| Iodine test | Pass | Pass | Pass |
+| Flame test | Weak | Best | Intermediate |
+| Honey spread test | Slow | Fast | Medium |
+| Moisture content | 19.51% | 16.00% | 17.79% |
 
-### 3. Flame Test
-Evaluates moisture content through combustion behavior.
+These are the observations and values recorded in this student study. They should not be interpreted as proof that a brand is pure, adulterated, safe, or compliant with a regulatory standard.
 
-### 4. Honey Spread Originality Test
-Assesses structural integrity and viscosity.
+## Interpretation and limitations
 
-### 5. Moisture Content Analysis
-Determines moisture percentage using gravimetric analysis.
+- The study compares a small set of commercial samples; it does not establish the quality of every batch or product sold under these brands.
+- Qualitative screening methods can be affected by sample handling and experimental conditions.
+- A negative result in a screening test does not rule out every possible form of adulteration.
+- Confirmatory conclusions require appropriate validated analytical methods, suitable controls, representative sampling, and qualified laboratory interpretation.
+- The recorded moisture values are reproduced from the project observations; this README does not independently validate the measurement procedure or results.
 
-## Materials Used
+## Full report
 
-- Honey samples (Dabur, Amul, Saffola)
-- Distilled water
-- Lugol's iodine solution
-- Cotton wick
-- Glass beakers
-- Petri dishes
-- Weighing balance
-- Hot air oven
+The repository includes the original academic report:
 
-## Results Summary
+[HONEY ADULTRATION TEST REPORT — PDF](./HONEY%20ADULTRATION%20TEST%20REPORT%20%20BY%20ABHISHEK%20SINGH%20(1).pdf)
 
-| Test | Dabur | Amul | Saffola |
-|--------|--------|--------|--------|
-| Water Dispersion | Pass | Pass | Pass |
-| Iodine Test | Pass | Pass | Pass |
-| Flame Test | Weak | Best | Intermediate |
-| Honey Spread Test | Slow | Fast | Medium |
-| Moisture Content | 19.51% | 16.00% | 17.79% |
+## Future scope
 
-## Conclusion
+Possible extensions include larger and more representative sample sets, documented controls and replicates, and confirmatory analytical techniques such as HPLC, NMR spectroscopy, or isotope-ratio analysis, subject to suitable laboratory access and validated methods.
 
-Amul honey demonstrated the strongest overall performance, showing low moisture content and clean combustion behavior.
+## Academic use
 
-Saffola performed at an intermediate level.
-
-Dabur showed the highest moisture content among the tested brands but remained within acceptable limits.
-
-## Future Scope
-
-- NMR Spectroscopy
-- HPLC Analysis
-- Isotope Ratio Analysis
-- Larger Sample Studies
-- Consumer Awareness Programs
-
-## Author
-
-**Abhishek Singh**
-
-B.Tech Food Technology
-
-IILM University, Greater Noida
-
-## Supervisor
-
-**Dr. Bisma Jan**
-
-Assistant Professor
-
-Department of Biotechnology
-
-IILM University, Greater Noida
-
-## License
-
-This project is intended for academic and educational purposes.
+This repository is shared for academic and educational purposes. The observations are not a substitute for accredited laboratory testing, regulatory assessment, or consumer-safety advice.
