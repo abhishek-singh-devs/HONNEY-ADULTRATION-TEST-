@@ -1,42 +1,48 @@
-# Honey Adulteration Screening Study
+<div align="center">
+  <img src="assets/honey-study-banner.svg" alt="Honey Adulteration Screening Study — Academic Food Quality Project" width="100%" />
+  <br/>
+  <img src="https://img.shields.io/badge/Project-Academic%20Study-8a5a16?style=for-the-badge" alt="Academic study"/>
+  <img src="https://img.shields.io/badge/Domain-Food%20Technology-477a52?style=for-the-badge" alt="Food technology"/>
+  <img src="https://img.shields.io/badge/Focus-Quality%20Screening-b7791f?style=for-the-badge" alt="Quality screening"/>
+  <h3>Comparative laboratory screening of three commercially available honey samples</h3>
+  <p><strong>By Abhishek Singh</strong> · B.Tech Food Technology · IILM University, Greater Noida</p>
+</div>
 
-An academic study comparing three commercially available honey brands in India using simple laboratory screening methods.
+---
 
-**Author:** Abhishek Singh  
-**Programme:** B.Tech Food Technology, IILM University, Greater Noida  
-**Supervisor:** Dr. Bisma Jan, Assistant Professor, Department of Biotechnology
+## 🔬 About the study
 
-## Project overview
+This academic project documents a comparison of three commercially available honey brands in India using selected, simple laboratory screening methods.
 
-This study documents screening observations for three honey samples:
+**Samples included:** Dabur Honey · Amul Honey · Saffola Honey
 
-- Dabur Honey
-- Amul Honey
-- Saffola Honey
+The project was undertaken to understand selected screening techniques, record observations, compare samples, and explore food-quality and consumer-awareness questions.
 
-The work was carried out to understand selected screening methods, compare observations across the samples, and explore food-quality and consumer-awareness questions.
+## 🧪 Tests documented
 
-## Tests documented
+| Test | What was observed / examined |
+|---|---|
+| Water dispersion / solubility | How each sample dispersed in water |
+| Iodine test | Screening for a starch-related reaction |
+| Flame test | Qualitative combustion behaviour |
+| Honey spread test | Qualitative spread behaviour and texture |
+| Moisture content analysis | Moisture values recorded for the samples |
 
-1. **Water dispersion / solubility test** — qualitative observation of how each sample dispersed in water.
-2. **Iodine test** — screening for a starch-related reaction.
-3. **Flame test** — qualitative observation of combustion behaviour.
-4. **Honey spread test** — qualitative comparison of spread behaviour and texture.
-5. **Moisture content analysis** — moisture values recorded for the tested samples.
+## 📊 Recorded observations
 
-## Recorded observations
+The table below reproduces the observations recorded in the student project report.
 
 | Test / observation | Dabur | Amul | Saffola |
-|---|---:|---:|---:|
+|:--|:--:|:--:|:--:|
 | Water dispersion | Pass | Pass | Pass |
 | Iodine test | Pass | Pass | Pass |
 | Flame test | Weak | Best | Intermediate |
 | Honey spread test | Slow | Fast | Medium |
 | Moisture content | 19.51% | 16.00% | 17.79% |
 
-These are the observations and values recorded in this student study. They should not be interpreted as proof that a brand is pure, adulterated, safe, or compliant with a regulatory standard.
+> **Important interpretation note:** These are observations from a small student study. They should not be treated as proof that a brand or batch is pure, adulterated, safe, or compliant with a regulatory standard.
 
-## Interpretation and limitations
+## 🧭 Interpretation & limitations
 
 - The study compares a small set of commercial samples; it does not establish the quality of every batch or product sold under these brands.
 - Qualitative screening methods can be affected by sample handling and experimental conditions.
@@ -44,16 +50,33 @@ These are the observations and values recorded in this student study. They shoul
 - Confirmatory conclusions require appropriate validated analytical methods, suitable controls, representative sampling, and qualified laboratory interpretation.
 - The recorded moisture values are reproduced from the project observations; this README does not independently validate the measurement procedure or results.
 
-## Full report
+## 📄 Full project report
 
-The repository includes the original academic report:
+<div align="center">
 
-[HONEY ADULTRATION TEST REPORT — PDF](./HONEY%20ADULTRATION%20TEST%20REPORT%20%20BY%20ABHISHEK%20SINGH%20(1).pdf)
+[**View the original Honey Adulteration Test Report (PDF)**](./HONEY%20ADULTRATION%20TEST%20REPORT%20%20BY%20ABHISHEK%20SINGH%20(1).pdf)
 
-## Future scope
+</div>
 
-Possible extensions include larger and more representative sample sets, documented controls and replicates, and confirmatory analytical techniques such as HPLC, NMR spectroscopy, or isotope-ratio analysis, subject to suitable laboratory access and validated methods.
+## 🚀 Possible future scope
 
-## Academic use
+- Study a larger and more representative sample set.
+- Include documented controls, replicates, and measurement conditions.
+- Explore confirmatory techniques such as HPLC, NMR spectroscopy, or isotope-ratio analysis, subject to appropriate laboratory access and validated methods.
+- Compare screening observations with results from qualified analytical laboratories.
 
-This repository is shared for academic and educational purposes. The observations are not a substitute for accredited laboratory testing, regulatory assessment, or consumer-safety advice.
+## 👨‍🔬 Project details
+
+| | |
+|---|---|
+| **Author** | Abhishek Singh |
+| **Programme** | B.Tech Food Technology |
+| **Institution** | IILM University, Greater Noida |
+| **Supervisor** | Dr. Bisma Jan, Assistant Professor, Department of Biotechnology |
+| **Project type** | Academic / educational |
+
+---
+
+<div align="center">
+  <sub>Created for academic learning and documentation · Not a substitute for accredited laboratory testing or regulatory assessment</sub>
+</div>
